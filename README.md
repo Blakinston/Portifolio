@@ -11,7 +11,7 @@ marp: false
 
 ## Sobre
 
-<p>Projeto de Digital Analytics, com intuito de entender segmentos de clientes taxa de ativos e cancelados para obtermos o Churn Rate mensal e prevermos o valor futuro em relação ao faturamento por segmento de clientes </p>
+<p>Projeto de Digital Analytics, com intuito de entender segmentos de clientes taxa de ativos e cancelados para obtermos o Churn Rate mensal e prevermos o valor futuro em relação ao fatuwertyuiopwertyuiop´[]ramento por segmento de clientes </p>
 
 
 ### Dashboard
@@ -37,4 +37,4 @@ marp: false
 - [x] Life Time Value
 - [x] Data visualization power bi
 - [x] Forecast
-- []  Clusterização
+- [ ]  Clusterização
