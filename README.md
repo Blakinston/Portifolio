@@ -15,8 +15,10 @@ marp: false
 
 
 ### Dashboard
+<b>Basta clicar para acessar o Dashboard do projeto<b><br>
 
-<iframe title="apresentacao - Página 1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYmMzNzZmMTAtOWY1NS00ZGE4LTg4OGQtZjU3MDY2MjgwZTM3IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+<a> https://app.powerbi.com/view?r=eyJrIjoiYmMzNzZmMTAtOWY1NS00ZGE4LTg4OGQtZjU3MDY2MjgwZTM3IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9 </a>
+
 
 ## Utilizado 
 <p>Modelo <b>Auto arima</b> para prever o Life time value, no modelo de forecast foi escolhido SARIMAX modelo que reporuziu 76% acuracia</p>
