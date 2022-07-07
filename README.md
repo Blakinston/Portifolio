@@ -5,12 +5,17 @@ marp: false
 # Data Analytics
 
 * [Sobre](#Sobre)
+* [Dashboard](#Dashboard)
 * [Utilizado](#Utilizado)
 
 
 ## Sobre
 
 <p>Projeto de Digital Analytics, com intuito de entender segmentos de clientes taxa de ativos e cancelados para obtermos o Churn Rate mensal e prevermos o valor futuro em relação ao faturamento por segmento de clientes </p>
+
+
+### Dashboard
+<iframe title="apresentacao - Página 1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYmMzNzZmMTAtOWY1NS00ZGE4LTg4OGQtZjU3MDY2MjgwZTM3IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Utilizado 
 <p>Modelo <b>Auto arima</b> para prever o Life time value, no modelo de forecast foi escolhido SARIMAX modelo que reporuziu 76% acuracia</p>
